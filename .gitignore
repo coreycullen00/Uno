@@ -29,4 +29,3 @@ server/package-lock.json
 server/yarn.lock
 
 .idea/*
-/public/node_modules/
